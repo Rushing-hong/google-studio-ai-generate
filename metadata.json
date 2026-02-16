@@ -1,0 +1,10 @@
+{
+  "name": "stupid ai 3D",
+  "description": "A deep-sea exploration game where you pilot a submarine through a bioluminescent abyss filled with mysterious creatures and sea snow.",
+  "requestFramePermissions": [],
+  "tools": [
+    {
+      "googleSearch": {}
+    }
+  ]
+}
